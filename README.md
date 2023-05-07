@@ -1,6 +1,7 @@
 # Arsen-M.
 <html>
   <head>
+  <link rel="stylesheet" href="style.css">
     <meta charset="utf-8">
     <title>Арсен Мирзоян</title>
   </head>
